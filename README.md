@@ -1,2 +1,4 @@
 # test
-&lt;img src="up.php">
+<?php
+echo "My first PHP script!";
+?>
